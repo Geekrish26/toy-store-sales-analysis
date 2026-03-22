@@ -2,49 +2,42 @@
 
 ## 1. Annual Sales Trends
 
-* Total sales declined from **$7,482,498 in 2022** to **$6,962,074 in 2023**, reflecting a **7% decrease year-over-year**.
-* This indicates a slight slowdown in overall business performance and may require strategic interventions to boost growth.
+* Total Sales: Sales decreased from **$7,482,498 in 2022** to **$6,962,074 in 2023**, a drop of **7%**.
+* This indicates a slight decline in overall annual sales year-over-year.
 
 ---
 
 ## 2. Quarterly Sales Trends
 
-### 2022:
+**2022:**
+Sales saw fluctuations with notable peaks and troughs. Q2 had the highest growth (+20%) compared to Q1, while Q3 experienced a significant drop (-19%).
 
-* Q2 experienced strong growth (**+20%**) compared to Q1.
-* Q3 showed a sharp decline (**-19%**) from Q2, indicating possible seasonality or demand drop.
-
-### 2023:
-
-* Q1 rebounded with a **+9% increase** compared to Q4 2022.
-* Q2 maintained steady growth (**+5%**).
-* Q3 again declined (**-13%**) compared to Q2, showing a recurring seasonal pattern.
+**2023:**
+Q1 showed a positive increase (+9%) from Q4 2022, with consistent growth in Q2 (+5%) but a decline in Q3 (-13%) relative to Q2.
 
 ---
 
 ## 3. Product Category Profitability
 
-* **Electronics**: Highest profit margin (**44.57%**) → most profitable category.
-* **Games**: Strong performance with **30.27% margin**.
-* **Art & Crafts**: Moderate profitability (**27.85%**).
-* **Toys**: High sales but lower margin (**21.2%**).
-* **Sports & Outdoors**: Lowest margin (**23.28%**) but still contributes significantly to revenue.
+* Electronics: Highest profit margin (**44.57%**) with significant total profit.
+* Games: Strong performance with a profit margin of **30.27%**.
+* Art & Crafts: Moderate margin (**27.85%**).
+* Toys: Lower margin (**21.2%**) despite significant sales.
+* Sports & Outdoors: The lowest profit margin (**23.28%**) but still substantial sales figures.
 
 ---
 
 ## 4. Product Revenue Contribution
 
-* **Lego Bricks** contributes **16.54% of total revenue**, making it the top-performing product.
-* **Colorbuds** also contributes over **10%**, indicating strong customer demand.
-* These products should be prioritized for promotions and inventory planning.
+* Lego Bricks and Colorbuds: Significant contributors to revenue, each with over **10%** of the total revenue.
+* Lego Bricks alone accounted for **16.54%** of total revenue.
 
 ---
 
-## 5. Store Inventory & Stock Levels
+## 5. Store Inventory and Stock Levels
 
-* Stores like **Maven Toys Ciudad de Mexico 2** and **Maven Toys Chihuahua 2** hold the highest inventory value.
-* Stock levels vary significantly across stores (**367 to 915 units**), impacting their ability to meet customer demand.
-* High inventory stores may face overstock risk, while low inventory stores may need restocking.
+* High Inventory Values: Stores like **Maven Toys Ciudad de Mexico 2** and **Maven Toys Chihuahua 2** have high inventory values and stock levels.
+* Stock Variability: Stores exhibit variability in total stock, ranging from **367 to 915 units**, influencing their ability to meet sales demands.
 
 ---
 
@@ -52,22 +45,20 @@
 
 ### 📈 Increased Sales:
 
-* **Maven Toys Culiacan**
-* **Maven Toys Puebla 1**
-  → These stores show strong growth and potential for further investment.
+* Maven Toys Culiacan
+* Maven Toys Puebla 1
 
 ### 📉 Decreased Sales:
 
-* **Maven Toys Monterrey 1**
-* **Maven Toys Aguascalientes 1**
-  → These stores may require performance analysis and strategic improvements.
+* Maven Toys Monterrey 1
+* Maven Toys Aguascalientes 1
 
 ---
 
 ## 🚀 Recommendations
 
-* Focus on **high-margin categories (Electronics, Games)** to maximize profitability.
-* Increase inventory for **high-demand products** like Lego Bricks and Colorbuds.
-* Investigate **seasonal dips (Q3)** and implement targeted marketing campaigns.
-* Optimize stock distribution across stores to avoid overstocking and stockouts.
-* Analyze underperforming stores and apply localized strategies to improve sales.
+* Focus on high-margin categories such as **Electronics and Games** to maximize profitability.
+* Increase inventory for high-demand products like **Lego Bricks and Colorbuds**.
+* Address seasonal dips, especially in **Q3**, with targeted marketing strategies.
+* Optimize inventory distribution across stores to prevent overstocking and stock shortages.
+* Analyze underperforming stores and implement localized strategies to improve sales.
